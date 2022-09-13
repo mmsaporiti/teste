@@ -15,3 +15,5 @@ agora vou testar o reset HEAD
 
 
 sduhfispdfhiashu
+
+Adicionando nova linha para testar push e commit
